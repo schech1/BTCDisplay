@@ -9,7 +9,7 @@ from pycoingecko import CoinGeckoAPI
 cg = CoinGeckoAPI()
 
 myBTC= 2.5
-myETH= 4
+myETH= 3
 
 text=PapirusTextPos(False, rotation = 180)
 
