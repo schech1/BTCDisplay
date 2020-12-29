@@ -2,7 +2,7 @@
 
 Current BTC adn ETH price displayed on Papirus Zero ePaper display for Raspberry Pi Zero
 
-![Display](https://github.com/schech1/BTCDisplay/blob/main/BTCDisplay.jpeg)
+![Display](https://github.com/schech1/BTCDisplay/blob/main/BTCDisplay.png)
 
 # Changes in V2:
 + BTC and ETH supported and shown in USD and EUR
