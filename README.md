@@ -8,7 +8,7 @@ Current BTC adn ETH price displayed on Papirus Zero ePaper display for Raspberry
 + BTC and ETH supported and shown in USD and EUR
 + Display layout changes
 + Adding amount of BTC and ETH owned to show personal wallet value
-+ Changed to coingeco API instead of coindesk, for support of all cryptocoins
++ Changed to coingecko API instead of coindesk, for support of all cryptocoins
 + Removed "wait or buy" indicator, because of... No dips expected :-D
 
 Hardware: 
