@@ -1,7 +1,7 @@
 # BTCDisplay
 Current BTC price displayed on Papirus Zero ePaper display for Raspberry Pi Zero
 
-![Display](https://github.com/schech1/BTCDisplay/blob/main/BTCDisplay.jpg)
+![Display](https://github.com/schech1/BTCDisplay/blob/main/BTCDisplay.jpeg)
 
 Hardware: 
 + Raspberry Pi Zero W
