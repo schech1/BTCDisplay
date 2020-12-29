@@ -1,6 +1,6 @@
 # BTCDisplay updated to V2
 
-Current BTC adn ETH price displayed on Papirus Zero ePaper display for Raspberry Pi Zero
+Current BTC and ETH price displayed on Papirus Zero ePaper display for Raspberry Pi Zero
 
 ![Display](https://github.com/schech1/BTCDisplay/blob/main/BTCDisplay.png)
 
